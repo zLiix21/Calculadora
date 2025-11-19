@@ -11,6 +11,9 @@ package com.mycompany.git.netbeans;
 /**
 *Archivo modificado desde github
 */
+/**
+*Archivo modificado desde netbeans
+*/
 public class Calculadora {
 
     public static void main(String[] args) {
